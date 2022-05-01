@@ -1,7 +1,14 @@
 <xml>
 	<p1>"Summary - "</p1>
-	<p2>"Steps to reproduce - "</p2>
-	<p3>"Expected Result - "</p3>
-	<p4>"Actual Result - "</p4>
+	<p2>"Project - "</p2>
+	<p3>"Component - "</p3>
+	<p4>"Version - "</p4>
 	<p5>"Severity - "</p5>
+	<p6>"Prioriy - "</p6>
+        <p7>"Steps to reproduce - "</p7>
+	<p8>"Expected Result - "</p8>
+	<p9>"Actual Result - "</p9>
+	<p10>"Attachment - "</p10>
+	<p11>"Author - "</p11>
+	<p12>"Assigned to -"</p13>
 </xml>
