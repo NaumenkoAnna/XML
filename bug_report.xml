@@ -1,1 +1,6 @@
-
+<xml>
+	<p1>"Summary - "</p1>
+	<p2>"Steps to reproduce - "</p2>
+	<p3>"Expected Result - "</p3>
+	<p4>"Actual Result - "</p4>
+	<p5>"Severity - "</p5>
